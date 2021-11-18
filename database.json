@@ -20,31 +20,36 @@
         {
             "id": 1,
             "name": "Reeses",
-            "productTypeId": 2
+            "productTypeId": 2,
+            "price": 2.99
 
         },
         {
             "id": 2,
             "name": "Hershey's Cookies & Cream",
-            "productTypeId": 2
+            "productTypeId": 2,
+            "price": 1.99
 
         },
         {
             "id": 3,
             "name": "Kit Kat",
-            "productTypeId": 2
+            "productTypeId": 2,
+            "price": 0.99
 
         },
         {
             "id": 4,
             "name": "Gummy Beas",
-            "productTypeId": 1
+            "productTypeId": 1,
+            "price": 3.99
 
         },
         {
             "id": 5,
             "name": "Jolly Ranchers",
-            "productTypeId": 3
+            "productTypeId": 3,
+            "price": 1.99
 
         }
     ],
@@ -96,6 +101,5 @@
     ],
     "customers": [],
     "purchases": [],
-    "productLocation": [],
-    "customerLocation": []
+    "productLocation": []
 }
