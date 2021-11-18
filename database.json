@@ -1,0 +1,101 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Division",
+            "address": "662 Stokes Viaduct"
+        },
+        {
+            "id": 2, 
+            "name": "Accountability",
+            "address": "4090 Lang Plaza"
+        },
+        {
+            "id": 3, 
+            "name": "Quality",
+            "address": "3788 Nelda Route"
+        }
+    ],
+    "products":  [
+        {
+            "id": 1,
+            "name": "Reeses",
+            "productTypeId": 2
+
+        },
+        {
+            "id": 2,
+            "name": "Hershey's Cookies & Cream",
+            "productTypeId": 2
+
+        },
+        {
+            "id": 3,
+            "name": "Kit Kat",
+            "productTypeId": 2
+
+        },
+        {
+            "id": 4,
+            "name": "Gummy Beas",
+            "productTypeId": 1
+
+        },
+        {
+            "id": 5,
+            "name": "Jolly Ranchers",
+            "productTypeId": 3
+
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Adrienne Johnson",
+            "locationId": 3
+        },
+        {
+            "id": 2,
+            "name": "Madeline Labadie",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Virgil Larson DVM",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Vickie Schmitt",
+            "locationId": 1
+        },
+        {
+            "id": 5,
+            "name": "Sonya Kassulke",
+            "locationId": 1
+        },
+        {
+            "id": 6,
+            "name": "Jonathan Schuster",
+            "locationId": 3
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Gummy"
+        },
+        {
+            "id": 2,
+            "type": "Chocolate"
+        },
+        {
+            "id": 3,
+            "type": "Hard Candy"
+        }
+    ],
+    "customers": [],
+    "purchases": [],
+    "productLocation": [],
+    "customerLocation": []
+}
